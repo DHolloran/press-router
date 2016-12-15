@@ -18,7 +18,9 @@
         "docs": "https://github.com/DHolloran/press-router",
         "source": "https://github.com/DHolloran/press-router"
     },
-    "psr-4": {
-        "PressRouter\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "PressRouter\\": "src/"
+        }
     }
 }
