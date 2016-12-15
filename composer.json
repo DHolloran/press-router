@@ -1,4 +1,23 @@
 {
+    "keywords": ["WordPress", "router"],
+    "name": "dholloran/press-router",
+    "description": "Router component for WordPress.",
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/DHolloran/press-router",
+    "type": "project",
+    "authors" : [
+        {
+            "name": "Dan Holloran",
+            "email": "dtholloran@gmail.com",
+            "homepage":"https://danholloran.me",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/DHolloran/press-router/issues",
+        "docs": "https://github.com/DHolloran/press-router",
+        "source": "https://github.com/DHolloran/press-router"
+    },
     "psr-4": {
         "PressRouter\\": "src/"
     }
